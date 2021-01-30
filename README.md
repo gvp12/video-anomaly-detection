@@ -6,4 +6,4 @@ Anomalies detected in video frames from the UCSD dataset:
 
 |vehicle|skateboarding|
 |-|-|
-|![](example_images/1.png)|![](example_images/2.png)|
+|![](examples/1.png)|![](examples/2.png)|
